@@ -3,4 +3,4 @@ display_name: Ginzen # 用于展示的名字，可以是方便人类阅读的名
 desc: 全局拦截NAI生成错误，防止敏感信息泄露
 version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Ginzen # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+repo: https://github.com/a1071711189-sketch/error_filter
