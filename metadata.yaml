@@ -1,5 +1,5 @@
-name: Global_NAI_Error_Filter # 插件唯一识别名，以 astrbot_plugin_ 前缀开头
-display_name: Ginzen # 用于展示的名字，可以是方便人类阅读的名字（需要版本 >= v4.5.0，低版本不会报错，请放心填写）
+name: astrbot_plugin_Global_NAI_Error_Filter # 插件唯一识别名，以 astrbot_plugin_ 前缀开头
+display_name: NAI错误过滤 # 用于展示的名字，可以是方便人类阅读的名字（需要版本 >= v4.5.0，低版本不会报错，请放心填写）
 desc: 全局拦截NAI生成错误，防止敏感信息泄露
 version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Ginzen # 作者
